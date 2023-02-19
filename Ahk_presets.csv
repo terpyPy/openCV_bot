@@ -1,0 +1,34 @@
+﻿preset,text
+vote1,::yell @red@ dont forget to ::vote every @blu@ 12 hours
+vote2,::yell @gre@vote box @blu@ winners get 2x the vote boxes
+gamble,::yell @red@dont gamble items your not willing to lose
+warn,"::yell @red@no protection prayer in demonic lands, can result in jail."
+gz,/gz vote boxe winner meet ::home2
+gear,/check ::thread 1112
+well,/check ::thread 210
+all threads,/check ::thread 3378/3935
+new player,/check ::thread 5696
+trivia,/check ::thread 44
+clues,/check ::thread 27
+pets,/check ::thread 1877
+gamble,/check ::thread 24
+orb,/check ::thread 1246
+in name,/check ::thread 2792
+slayer,/check ::thread 5009
+comp,/check ::thread 1334
+events,/check ::thread 5904
+boss,/check ::thread 1088/2295
+vork,/check ::thread 579
+corp,/check ::thread 1388
+hydra,/check ::thread 1077
+inferno,/check ::thread 1734
+olm,/check ::thread 5165
+tob,/check ::thread 5139
+nm,/check ::thread 5966
+wyvern,/check ::thread 1739
+skilling,/check ::thread 169
+zalcano,/check ::thread 3904
+banned items,/check ::thread 2391
+eslayer,/check ::thread 8153
+alchemy,/check ::thread 6999
+master,/check ::thread 5802

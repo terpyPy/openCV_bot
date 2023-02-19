@@ -1,0 +1,9 @@
+name,npc_file,hp_file,npc_Conf,hp_Conf
+dawn,dawn.png,dawnHP.png,0.525,0.75
+edimmu,edimmu.png,edimmuHP.png,0.52,0.75
+champ,champ.png,champHP.png,0.52,0.75
+nail,nail.png,nailHP.png,0.52,0.75
+mancer,mancer.png,mancerHP.png,0.57,0.75
+boar,boar.png,boarHP.png,0.563,0.75
+hand,hand.png,handHP.png,0.52,0.75
+dusk,dusk.png,duskHP.png,0.525,0.75

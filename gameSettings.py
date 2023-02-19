@@ -1,0 +1,37 @@
+#!/usr/bin/python3
+#
+#  Author:      Cameron Kerley (terpyPY: https://github.com/terpyPy/Interactive-Conways-game)
+#  Date:        6 June 2022
+#  License:     MIT License
+#
+#  Disclosure:  This code is public domain. You can use it in any way you want. 
+#               However, i am scanning github repos for this code that does not include credit to me. 
+#               I have left some patterns in the naming convention and access methods
+#               in this project making copy/pasted stolen code easy to parse and find.
+#
+import pygame
+
+class Settings:
+    # store the game settings
+    def __init__(self, N:int,screen:tuple=(0,0), isGlobal:str=False) -> object:
+        # screen settings
+        self.screen_width, self.screen_height = screen
+        self.N = N
+        self.animation_FPS = 5
+        if isGlobal == True:
+            if screen == (0,0):
+                print('used default screen size')
+            else:
+                print(f'screen_width :{self.screen_width}\n screen_hight: {self.screen_height}')
+        else:
+            print(f'not screen settings for isGlobal. \nused {self.screen_width}:{self.screen_height}')
+        self.bg_color = (40,40,40)
+        # game driver settings
+        self.isPause = False
+        self.DEFAULT_SIZE_IMG = (60,60)
+        
+    def get_grid_padding(self) -> tuple:
+        return int(self.screen_width*0.50) - self.N
+    
+    def get_temp_path(self) -> str:
+        return r"D:\2021code\NumpyAnimation\images\temp.bmp"

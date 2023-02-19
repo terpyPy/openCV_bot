@@ -1,0 +1,229 @@
+npc: nail task time:273.692
+
+npc: nail time task: 329.916
+
+npc: boar  task time:489.461
+
+npc: boar  task time:127.316
+
+npc: mancer task time:646.135
+
+npc: nail   task time:366.808
+
+npc: boar   task time:284.685
+
+npc: boar   task time:212.199
+
+npc: hand   task time:138.749
+
+npc: champ  task time:648.86
+
+npc: edimmu  task time:272.409
+
+npc: nail  task time:231.314
+
+npc: mancer  task time:408.441
+
+npc: champ  task time:392.886
+
+npc: edimmu  task time:416.627
+
+npc: hand  task time:188.001
+
+npc: edimmu  task time:426.618
+
+npc: champ  task time:613.973
+
+npc: edimmu  task time:397.644
+
+npc: boar  task time:214.274
+
+npc: champ  task time:335.0
+
+npc: edimmu  task time:330.562
+
+npc: edimmu  task time:276.378
+
+npc: mancer  task time:311.016
+
+npc: champ  task time:644.667
+
+npc: boar  task time:276.81
+
+npc: edimmu  task time:391.016
+
+npc: hand  task time:195.251
+
+npc: hand  task time:263.625
+
+npc: hand  task time:243.313
+
+npc: hand  task time:148.646
+
+npc: boar  task time:352.311
+npc: mancer  task time:581.75
+npc: mancer  task time:551.762
+npc: hand  task time:289.529
+npc: champ  task time:594.746
+npc: hand  task time:267.398
+npc: edimmu  task time:331.379
+npc: mancer  task time:657.035
+npc: boar  task time:349.57
+npc: hand  task time:230.236
+npc: mancer  task time:720.2
+npc: boar  task time:314.192
+npc: champ  task time:347.098
+npc: champ  task time:453.658
+npc: edimmu  task time:501.093
+npc: boar  task time:276.023
+npc: hand  task time:172.536
+npc: champ  task time:653.636
+npc: hand  task time:151.683
+npc: champ  task time:683.372
+npc: mancer  task time:653.692
+npc: edimmu  task time:300.315
+npc: edimmu  task time:507.663
+npc: nail  task time:241.191
+npc: nail  task time:367.583
+npc: mancer  task time:700.121
+npc: hand  task time:118.157
+npc: hand  task time:205.255
+npc: hand  task time:170.275
+npc: champ  task time:350.176
+npc: hand  task time:231.314
+npc: mancer  task time:326.078
+npc: mancer  task time:379.845
+npc: nail  task time:281.374
+npc: mancer  task time:381.039
+npc: champ  task time:496.267
+npc: boar  task time:338.23
+npc: boar  task time:353.307
+npc: boar  task time:350.028
+npc: mancer  task time:566.046
+npc: nail  task time:307.788
+npc: boar  task time:368.377
+npc: edimmu  task time:468.495
+npc: mancer  task time:719.519
+npc: edimmu  task time:376.18
+npc: hand  task time:113.487
+npc: champ  task time:364.974
+npc: boar  task time:256.043
+npc: edimmu  task time:338.609
+npc: hand  task time:115.22
+npc: edimmu  task time:375.709
+npc: boar  task time:230.24
+npc: edimmu  task time:303.498
+npc: champ  task time:493.735
+npc: nail  task time:367.681
+npc: champ  task time:532.006
+npc: champ  task time:376.558
+npc: edimmu  task time:437.627
+npc: edimmu  task time:404.571
+npc: edimmu  task time:462.081
+npc: edimmu  task time:222.229
+npc: boar  task time:350.384
+npc: champ  task time:711.13
+npc: edimmu  task time:324.233
+npc: edimmu  task time:312.375
+npc: edimmu  task time:248.297
+npc: nail  task time:283.863
+npc: boar  task time:266.976
+npc: hand  task time:127.733
+npc: nail  task time:356.675
+npc: hand  task time:192.842
+npc: boar  task time:183.984
+npc: nail  task time:466.966
+npc: boar  task time:205.592
+npc: hand  task time:119.97
+npc: champ  task time:724.161
+npc: hand  task time:124.9
+npc: nail  task time:337.923
+npc: hand  task time:221.366
+npc: edimmu  task time:495.615
+npc: hand  task time:231.139
+npc: edimmu  task time:282.287
+npc: hand  task time:170.204
+npc: hand  task time:230.856
+npc: edimmu  task time:302.498
+npc: edimmu  task time:339.945
+npc: mancer  task time:376.356
+npc: boar  task time:313.93
+npc: nail  task time:229.886
+npc: edimmu  task time:436.168
+npc: edimmu  task time:360.909
+npc: mancer  task time:558.39
+npc: edimmu  task time:164.65
+npc: edimmu  task time:462.873
+npc: mancer  task time:688.724
+npc: mancer  task time:605.797
+npc: nail  task time:243.864
+npc: champ  task time:172.942
+npc: boar  task time:198.002
+npc: edimmu  task time:299.002
+npc: champ  task time:385.394
+npc: champ  task time:810.909
+npc: edimmu  task time:392.423
+npc: champ  task time:806.373
+npc: boar  task time:209.637
+npc: nail  task time:266.798
+npc: nail  task time:283.289
+npc: boar  task time:210.413
+npc: boar  task time:192.698
+npc: boar  task time:113.531
+npc: edimmu  task time:403.134
+npc: nail  task time:302.856
+npc: mancer  task time:629.774
+npc: nail  task time:301.121
+npc: edimmu  task time:386.783
+npc: boar  task time:183.801
+npc: mancer  task time:436.805
+npc: champ  task time:532.177
+npc: nail  task time:302.057
+npc: edimmu  task time:463.304
+npc: mancer  task time:725.724
+npc: nail  task time:264.868
+npc: boar  task time:303.174
+npc: mancer  task time:705.781
+npc: nail  task time:232.468
+npc: champ  task time:648.742
+npc: champ  task time:390.753
+npc: hand  task time:224.305
+npc: boar  task time:350.3
+npc: hand  task time:204.371
+npc: nail  task time:351.862
+npc: hand  task time:220.656
+npc: mancer  task time:518.346
+npc: edimmu  task time:291.567
+npc: mancer  task time:722.452
+npc: champ  task time:645.014
+npc: champ  task time:600.63
+npc: hand  task time:65.237
+npc: nail  task time:247.404
+npc: edimmu  task time:266.842
+npc: mancer  task time:660.086
+npc: nail  task time:373.897
+npc: nail  task time:244.785
+npc: boar  task time:330.547
+npc: hand  task time:149.0
+npc: champ  task time:485.21
+npc: boar  task time:353.248
+npc: boar  task time:380.32
+npc: hand  task time:171.317
+npc: champ  task time:118.674
+npc: champ  task time:228.409
+npc: edimmu  task time:313.035
+npc: edimmu  task time:218.474
+npc: nail  task time:394.253
+npc: testing  task time:52.902
+npc: testing  task time:38.72
+npc: %  task time:57.878
+npc: %  task time:76.078
+npc: %  task time:80.737
+npc: %  task time:83.199
+npc: %  task time:76.552
+npc: %  task time:94.445
+npc: %  task time:87.127
+npc: %  task time:59.813
+npc: %  task time:6.124
+npc: dusk  task time:52.067
+npc: dusk  task time:339.419
